@@ -1,0 +1,6 @@
+{
+  "Name": "Automated Product Search And Recommendation Bot",
+  "ProjectType": "Process",
+  "Description": "This process automates product ordering by extracting product requests from emails, searching them online, and collecting details like price and ratings. It uses AI to recommend the best option and stores the results in Excel. The user then reviews the recommendation and places the order manually.",
+  "MainFile": "Main.xaml"
+}
