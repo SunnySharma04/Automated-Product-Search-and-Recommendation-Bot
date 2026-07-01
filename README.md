@@ -24,18 +24,6 @@ This project automates the process of searching products across multiple e-comme
 - UI Selectors
 - Exception Handling
 
-## Repository Structure
-
-```text
-Automated-Product-Search-and-Recommendation-Bot
-│
-├── README.md
-├── Bot_List
-│   └── Bot_List.png
-└── Workflow
-    └── Workflow.png
-```
-
 ## Project Workflow
 
 The automation performs the following steps:
